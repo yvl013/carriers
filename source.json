@@ -2,7 +2,7 @@
   "name": "Carriers",
   "identifier": "io.github.yvl013.carriers",
   "subtitle": "Смена профиля оператора на iPhone",
-  "iconURL": "https://github.com/yvl013/carriers/releases/download/v1.2-beta/Carriers-icon.png",
+  "iconURL": "https://github.com/yvl013/carriers/releases/download/v1.2.1-beta/Carriers-icon.png",
   "website": "https://github.com/yvl013/carriers",
   "tintColor": "#185FA5",
   "apps": [
@@ -12,17 +12,17 @@
       "developerName": "yvl013",
       "subtitle": "Профиль оператора без компьютера",
       "localizedDescription": "Меняет профиль оператора (carrier bundle Apple) прямо с iPhone. Для SIM МТС, Билайн, МегаФон, T2 и MVNO. Нужен LocalDevVPN. Бета.",
-      "iconURL": "https://github.com/yvl013/carriers/releases/download/v1.2-beta/Carriers-icon.png",
+      "iconURL": "https://github.com/yvl013/carriers/releases/download/v1.2.1-beta/Carriers-icon.png",
       "tintColor": "#185FA5",
       "category": "utilities",
       "versions": [
         {
-          "version": "1.2",
-          "buildVersion": "12",
+          "version": "1.2.1",
+          "buildVersion": "13",
           "date": "2026-11-15",
-          "localizedDescription": "Первая публичная бета: любая SIM, наборы рекомендуемых профилей, возврат на штатный профиль.",
-          "downloadURL": "https://github.com/yvl013/carriers/releases/download/v1.2-beta/Carriers-1.2.ipa",
-          "size": 3844142,
+          "localizedDescription": "Публичная бета: любая SIM, наборы рекомендуемых профилей, возврат на штатный профиль. 1.2.1 — служебная пересборка.",
+          "downloadURL": "https://github.com/yvl013/carriers/releases/download/v1.2.1-beta/Carriers-1.2.1.ipa",
+          "size": 3607086,
           "minOSVersion": "17.0"
         }
       ],
