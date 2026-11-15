@@ -15,9 +15,13 @@
 
 Вариант 1 — через каталог SideStore (обновления придут сами):
 
-1. SideStore → Sources → «+» → вставьте ссылку:
+1. Включите LocalDevVPN.
+2. Откройте SideStore → внизу вкладка **Browse** → вверху справа **Sources**.
+3. На экране Sources нажмите «+» и вставьте ссылку:
    `https://raw.githubusercontent.com/yvl013/carriers/main/source.json`
-2. Откройте источник Carriers → Get.
+4. Откройте источник **Carriers** → **Get** (если приложение уже стоит — **Update**).
+
+Не путайте с «+» на вкладке My Apps: он открывает выбор файла (вариант 2).
 
 Вариант 2 — файлом: скачайте `Carriers-1.2.ipa` из раздела Releases, затем SideStore → My Apps → «+» → выберите файл.
 
