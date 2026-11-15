@@ -1,0 +1,38 @@
+{
+  "name": "Carriers",
+  "identifier": "io.github.yvl013.carriers",
+  "subtitle": "Смена профиля оператора на iPhone",
+  "iconURL": "https://github.com/yvl013/carriers/releases/download/v1.2-beta/Carriers-icon.png",
+  "website": "https://github.com/yvl013/carriers",
+  "tintColor": "#185FA5",
+  "apps": [
+    {
+      "name": "Carriers",
+      "bundleIdentifier": "app.cswitch.carrierswitch",
+      "developerName": "yvl013",
+      "subtitle": "Профиль оператора без компьютера",
+      "localizedDescription": "Меняет профиль оператора (carrier bundle Apple) прямо с iPhone. Для SIM МТС, Билайн, МегаФон, T2 и MVNO. Нужен LocalDevVPN. Бета.",
+      "iconURL": "https://github.com/yvl013/carriers/releases/download/v1.2-beta/Carriers-icon.png",
+      "tintColor": "#185FA5",
+      "category": "utilities",
+      "versions": [
+        {
+          "version": "1.2",
+          "buildVersion": "12",
+          "date": "2026-11-15",
+          "localizedDescription": "Первая публичная бета: любая SIM, наборы рекомендуемых профилей, возврат на штатный профиль.",
+          "downloadURL": "https://github.com/yvl013/carriers/releases/download/v1.2-beta/Carriers-1.2.ipa",
+          "size": 3844142,
+          "minOSVersion": "17.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSLocalNetworkUsageDescription": "Нужно для связи с этим iPhone через LocalDevVPN и для создания сопряжения."
+        }
+      }
+    }
+  ],
+  "news": []
+}
