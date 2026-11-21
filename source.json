@@ -17,12 +17,12 @@
       "category": "utilities",
       "versions": [
         {
-          "version": "1.4.1",
-          "buildVersion": "16",
+          "version": "1.4.2",
+          "buildVersion": "17",
           "date": "2026-11-21",
-          "localizedDescription": "1.4.1: VPN определяется правильно; Wi-Fi — надпись «Wi-Fi включён» / «Включите Wi-Fi» вместо кнопки.",
-          "downloadURL": "https://github.com/yvl013/carriers/releases/download/v1.4.1/Carriers-1.4.1.ipa",
-          "size": 3618398,
+          "localizedDescription": "1.4.2: «Другие профили» сворачиваются после выбора; верхняя строка помещается целиком.",
+          "downloadURL": "https://github.com/yvl013/carriers/releases/download/v1.4.2/Carriers-1.4.2.ipa",
+          "size": 3619344,
           "minOSVersion": "17.0"
         }
       ],
