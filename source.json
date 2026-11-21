@@ -2,27 +2,27 @@
   "name": "Carriers",
   "identifier": "io.github.yvl013.carriers",
   "subtitle": "Смена профиля оператора на iPhone",
-  "iconURL": "https://github.com/yvl013/carriers/releases/download/v1.3-beta/Carriers-icon.png",
+  "iconURL": "https://github.com/yvl013/carriers/releases/download/v1.4/Carriers-icon.png",
   "website": "https://github.com/yvl013/carriers",
-  "tintColor": "#185FA5",
+  "tintColor": "#0A84FF",
   "apps": [
     {
       "name": "Carriers",
       "bundleIdentifier": "app.cswitch.carrierswitch",
       "developerName": "yvl013",
       "subtitle": "Профиль оператора без компьютера",
-      "localizedDescription": "Меняет профиль оператора (carrier bundle Apple) прямо с iPhone. Для SIM МТС, Билайн, МегаФон, T2 и MVNO. Нужен LocalDevVPN. Бета.",
-      "iconURL": "https://github.com/yvl013/carriers/releases/download/v1.3-beta/Carriers-icon.png",
-      "tintColor": "#185FA5",
+      "localizedDescription": "Меняет профиль оператора (carrier bundle Apple) прямо с iPhone. Для SIM МТС, Билайн, МегаФон, T2 и MVNO. Нужны Wi-Fi и LocalDevVPN.",
+      "iconURL": "https://github.com/yvl013/carriers/releases/download/v1.4/Carriers-icon.png",
+      "tintColor": "#0A84FF",
       "category": "utilities",
       "versions": [
         {
-          "version": "1.3",
-          "buildVersion": "14",
+          "version": "1.4",
+          "buildVersion": "15",
           "date": "2026-11-21",
-          "localizedDescription": "1.3: проверка Wi-Fi, кнопка «Проверить связь», понятные ошибки, быстрее подключение, возврат для MVNO через профиль базовой сети.",
-          "downloadURL": "https://github.com/yvl013/carriers/releases/download/v1.3-beta/Carriers-1.3.ipa",
-          "size": 3614488,
+          "localizedDescription": "1.4: новый экран — статусы VPN, Wi-Fi и сопряжения с кнопками, автоматическое чтение профиля, меню «Смена профиля», результат плашкой, журнал в углу, новая иконка.",
+          "downloadURL": "https://github.com/yvl013/carriers/releases/download/v1.4/Carriers-1.4.ipa",
+          "size": 3616884,
           "minOSVersion": "17.0"
         }
       ],
