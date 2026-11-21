@@ -17,12 +17,12 @@
       "category": "utilities",
       "versions": [
         {
-          "version": "1.4",
-          "buildVersion": "15",
+          "version": "1.4.1",
+          "buildVersion": "16",
           "date": "2026-11-21",
-          "localizedDescription": "1.4: новый экран — статусы VPN, Wi-Fi и сопряжения с кнопками, автоматическое чтение профиля, меню «Смена профиля», результат плашкой, журнал в углу, новая иконка.",
-          "downloadURL": "https://github.com/yvl013/carriers/releases/download/v1.4/Carriers-1.4.ipa",
-          "size": 3616884,
+          "localizedDescription": "1.4.1: VPN определяется правильно; Wi-Fi — надпись «Wi-Fi включён» / «Включите Wi-Fi» вместо кнопки.",
+          "downloadURL": "https://github.com/yvl013/carriers/releases/download/v1.4.1/Carriers-1.4.1.ipa",
+          "size": 3618398,
           "minOSVersion": "17.0"
         }
       ],
