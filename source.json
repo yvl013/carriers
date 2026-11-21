@@ -17,12 +17,12 @@
       "category": "utilities",
       "versions": [
         {
-          "version": "1.4.3",
-          "buildVersion": "18",
+          "version": "1.4.4",
+          "buildVersion": "19",
           "date": "2026-11-21",
-          "localizedDescription": "1.4.3: кнопка «Вернуть штатный профиль» на главном экране; в «Смене профиля» только сторонние профили.",
-          "downloadURL": "https://github.com/yvl013/carriers/releases/download/v1.4.3/Carriers-1.4.3.ipa",
-          "size": 3622399,
+          "localizedDescription": "1.4.4: в «Смене профиля» список сворачивается после выбора, кнопка «Установить» сразу видна.",
+          "downloadURL": "https://github.com/yvl013/carriers/releases/download/v1.4.4/Carriers-1.4.4.ipa",
+          "size": 3624124,
           "minOSVersion": "17.0"
         }
       ],
